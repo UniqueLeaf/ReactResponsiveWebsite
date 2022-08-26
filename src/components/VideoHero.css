@@ -33,3 +33,18 @@
     margin-bottom: 1.6rem;
     color: white;
 }
+
+.hero .btn {
+    margin: 1rem .2rem;
+}
+
+@media screen and (max-wdith: 640px){
+    .content h1 {
+        font-size: 3rem;
+    }
+    
+    .content p {
+        font-size: 1.4rem;
+        margin-bottom: 1.6rem;
+    }
+}
